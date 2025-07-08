@@ -1,34 +1,44 @@
-# 📊 Sales Analytics Report (Excel)
+\## Sales Report :
 
-This project is a data-driven sales analysis built in Microsoft Excel. It includes structured insights into sales performance using pivot tables, charts, and KPI summaries. The report is ideal for business analysts and managers looking for quick, data-backed insights.
 
-## 📌 Key Features
+- **Project objective:** 
 
-- Pivot tables for multi-dimensional data exploration
-- Visual charts to analyze:
-  - Sales by Product
-  - Sales by Region
-  - Sales by Segment
-- KPI summaries (Total Sales, Profit, Quantity Sold)
-- Filterable fields for customized analysis
+    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-## 🛠 Tools Used
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Data Cleaning Techniques
-- Power Query
-- DAX
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-## 📁 File
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-- `Sales_analytics_report.xlsx`: Contains raw data, cleaned data, pivot tables, and analysis visuals.
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-## 🎯 Objective
 
-To practice and demonstrate sales data analysis in Excel using business logic and best practices in data organization and presentation.
+## Finance Report :
 
-## 📬 Contact
+- **Project objective:** 
 
-Feel free to reach out for questions, suggestions, or collaboration opportunities!
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] & _[Months]
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets]
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
